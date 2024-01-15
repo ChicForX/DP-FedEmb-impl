@@ -1,0 +1,6 @@
+./data
+./test_centralized
+./test_dp_fedavg
+./test_dp_fedavg_hetergeneity
+./test_dp_fedemb
+./test_dp_fedemb_hetergeneity
